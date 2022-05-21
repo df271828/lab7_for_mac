@@ -10,6 +10,6 @@ some basic functions for matrixes:
 some basic functions for vectors:
   scalar multiplication,
   norm of vector,
-  angle between vectors,
+  angle between vectors.\n
 Also there're fuctions to write to binary and txt files, to read from binary and txt files.
   
